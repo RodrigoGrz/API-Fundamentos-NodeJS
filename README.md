@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NodeJs
     - Http
+    - Streams
 
 
 ## 😁 Como utilizar
