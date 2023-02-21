@@ -20,7 +20,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Para que o projeto funcione em sua máquina é necessario ter o [NodeJS](https://nodejs.org/en/) instalado.
 <br>
 
-Para instalar as dependências dê o comando: `npm install`
-<br>
 Para rodar o projeto dê o comando: `npm run dev`
 <br>
